@@ -1,7 +1,16 @@
 **`Nathan Santos`**
 
 <p align="center">
-  <img src="https://i.postimg.cc/JhCgmzJt/nathan-(1).png" alt="Banner Nathan Santos" />
+  <img 
+    src="https://i.postimg.cc/JhCgmzJt/nathan-(1).png" 
+    alt="Banner Nathan Santos"
+    style="
+      width: 100%;
+      max-width: 900px;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    "
+  />
 </p>
 
 Meu nome é Nathan de Souza Santos e sou estudante técnico em Desenvolvimentos de Sistemas na instituição Senai-sul/Sc.
