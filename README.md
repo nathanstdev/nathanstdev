@@ -4,12 +4,7 @@
   <img 
     src="https://i.postimg.cc/JhCgmzJt/nathan-(1).png" 
     alt="Banner Nathan Santos"
-    style="
-      width: 100%;
-      max-width: 900px;
-      border-radius: 20px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-    "
+
   />
 </p>
 
