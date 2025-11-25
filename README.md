@@ -1,7 +1,7 @@
 **`Nathan Santos`**
 
 Meu nome é Nathan de Souza Santos e sou estudante técnico em Desenvolvimentos de Sistemas na instituição Senai-sul/Sc.
-Pretendok me formar na área de  `Engenheiro de Software` em **`UDESC`**. 
+Pretendo me formar na área de  `Engenheiro de Software` em **`UDESC`**. 
 
 **`Cada dia que passa busco ser melhor no que faço...`**
 
