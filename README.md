@@ -5,7 +5,7 @@
     src="https://i.postimg.cc/JhCgmzJt/nathan-(1).png" 
     alt="Banner Nathan Santos"
 
-  />
+ 
 </p>
 
 Meu nome é Nathan de Souza Santos, sou natural de Joinville-Sc. Sou estudante técnico em Desenvolvimentos de Sistemas na instituição Senai-sul/Sc.
