@@ -9,7 +9,7 @@
 </p>
 
 Meu nome é Nathan de Souza Santos, sou natural de Joinville-Sc. Sou estudante técnico em Desenvolvimentos de Sistemas na instituição Senai-sul/Sc.
-Pretendo me formar na área de  `Engenheiro de Software` em **`Unisociesc`**. 
+Pretendo me formar na área de  `Engenheiro de Software` em **`Catílica-SC`**. 
 
 **`Cada dia que passa busco ser melhor no que faço...`**
 
